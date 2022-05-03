@@ -1,0 +1,7 @@
+# Opacity of the footsteps, from 0 (fully transparent) to 255 (fully opaque).
+#Defaults to 85.
+footstep_opacity (Footstep opacity) int 85
+
+# Lifetime of the footsteps in seconds.
+#Defaults to 30.
+footstep_lifetime (Footstep lifetime) int 30
